@@ -78,7 +78,7 @@ public class main extends javax.swing.JFrame {
         String size = JOptionPane.showInputDialog(null, "Please Enter the size of the group: (without out) ");
         try {
             int number = Integer.parseInt(size);
-            JOptionPane.showMessageDialog(null, "When you are ready, Click Ok and got to the whatsapp", "Starting", JOptionPane.INFORMATION_MESSAGE);
+            JOptionPane.showMessageDialog(null, "When you are ready, Click Ok and go to the whatsapp", "Starting", JOptionPane.INFORMATION_MESSAGE);
             try {
                 Thread.sleep(2500);
             } catch (InterruptedException ex) {
