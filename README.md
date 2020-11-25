@@ -1,2 +1,2 @@
--  This little tool will help admins metion everyone escpisialy in large groups.
+-  This little tool will help admins metion everyone especially in large groups.
 ![](whatsappM.gif)
